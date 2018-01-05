@@ -1,0 +1,54 @@
+Lesson 1: Navigating a Commit History
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was easier to do.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It could tell me where people have made the most changes. It could tell me
+    what I changed, including earlier changes that may impact current code.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manual commit pro:
+      You can choose to save the file at key milestones.
+      Commits cover logical changes.
+    Manual commit con:
+      You may forget to save after a critical change.
+      You have to remember to make commits.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Version control systems:
+      A program may use multiple files, so it will be important to save the state
+      of all relevant files in Git.
+
+    Google Docs
+      This is different to Google Docs, where the files may not be connected to
+      others.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log:  show a list of the recent commits with information about them,
+              including commit IDs
+    git diff: followed by two commit IDs will compare the two versions of the
+              code in those
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You can always go back to an earlier version that worked if the current
+    version breaks. This will make you more confident about experimenting and
+    trying new code. You can make big changes without fear of breaking your
+    code. This could speed up your work, rather than fearfully only making
+    minor changes to your code for fear of breaking the project.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Version control for my coding projects!
