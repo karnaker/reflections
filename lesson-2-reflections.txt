@@ -19,6 +19,10 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+  If you're making experimental changes, or a different language version, or
+  some other change that would want you to preserve a master, the branch
+  capability comes in handy.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
