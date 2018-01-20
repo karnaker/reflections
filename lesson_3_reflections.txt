@@ -31,7 +31,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    You could use other file sharing services to collaborate. It may be easier
+    for everyone to see and access files, but more difficult to control changes
+    and really understand how a programming project is evolving.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
